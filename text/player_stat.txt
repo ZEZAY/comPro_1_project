@@ -1,0 +1,18 @@
+sese: Balance = 3284.00
+Blackjeck: #plays = 0, #win = 0
+Pairs: #plays = 0, #win = 0
+Roulette: #plays = 1, #win = -250
+game_stat_list: ['x; 0', 'r; -250']
+
+dio: Balance = 3232342443934206.00
+Blackjeck: #plays = 0, #win = 0
+Pairs: #plays = 1, #win = 262
+Roulette: #plays = 1, #win = -300
+game_stat_list: ['x; 0', 'p; 262', 'r; -300']
+
+ext: Balance = 2709.00
+Blackjeck: #plays = 2, #win = -300
+Pairs: #plays = 1, #win = 309
+Roulette: #plays = 1, #win = -300
+game_stat_list: ['x; 0', 'r; -150', 'p; 309', 'r; -150', 'r; -300']
+
