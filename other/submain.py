@@ -33,7 +33,7 @@ def ask_for_player_name():
     player_name = 'unknow'
     me.read_from_file('player_stat')
     while not (player_name in players_handler.player.Player.all_player_name()):
-        player_name = input('Enter your name: ').lower()
+        player_name = input('Enter your name: ')
     return player_name
 
 
